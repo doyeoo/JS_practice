@@ -1,0 +1,58 @@
+.ball {
+  float: left;
+  margin: 10px;
+}
+.ball0 {
+  background-color: lavender;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.ball1 {
+  background-color: plum;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.ball2 {
+  background-color: aqua;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.ball3 {
+  background-color: gainsboro;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.ball4 {
+  background-color: yellowgreen;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.ball5 {
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
